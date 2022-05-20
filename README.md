@@ -8,6 +8,6 @@ cloudflare workersで動く
  
  # 例
 
-![QRコード](https://odaq.odaibako.net/odaibako/nerikeshi_k.svg)
+![QRコード](https://odaq.nerikeshik.workers.dev/odaibako/nerikeshi_k.svg)
 
 -> https://odaibako.net/u/nerikeshi_k
